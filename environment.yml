@@ -1,0 +1,8 @@
+name: wp5-seismology
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - matplotlib
