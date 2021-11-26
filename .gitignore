@@ -131,3 +131,5 @@ dmypy.json
 # Ignore token
 token
 Lectures/WP5_Seismology.docx
+SCEQSRC
+SCEQSRC/*
