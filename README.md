@@ -8,3 +8,5 @@ To start Binder, click on the botton below:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fabian-kutschera/WP5_Seismology/main)
 
 To access class material go to [Nextcloud](https://wolke.geophysik.uni-muenchen.de/s/FLn68bw4y4T9d3x).
+
+Learn how to deal with submodules: https://git-scm.com/book/de/v2/Git-Tools-Submodule
