@@ -1,3 +1,6 @@
 [submodule "Jupyter-Notebook-for-Lectures"]
 	path = Jupyter-Notebook-for-Lectures
 	url = https://github.com/heinerigel/Jupyter-Notebook-for-Lectures.git
+[submodule "CoulombAnalysis"]
+	path = CoulombAnalysis
+	url = https://github.com/jjwangw/CoulombAnalysis.git
